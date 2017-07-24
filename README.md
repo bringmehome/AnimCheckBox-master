@@ -1,5 +1,7 @@
 ### 给几个参考的，可以弹窗
 
+![](http://ac-rkaqp0jr.clouddn.com/03931f31df98165ecccb.jpg)
+
 ### 画图界面,包含打勾和叉叉
 ```java
 package com.kingdomcares.Dialog;
